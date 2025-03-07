@@ -37,9 +37,14 @@ nav a, a {
     transition: color 0.3s ease-in-out, transform 0.2s ease-in-out;
 }
 
-nav a:hover, a:hover {
+nav a:hover, a:hover, .container a:hover {
     color: #ffcc00;
+    text-decoration: none;
     transform: scale(1.1);
+}
+
+.bold {
+    color: #ffcc00;
 }
 
 .content {
@@ -51,10 +56,14 @@ nav a:hover, a:hover {
     text-align: right;
 }
 
-p, a { 
+p, .container a { 
     margin: 2% 0;
     font-size: 1.2em;
     color: black;
+}
+
+.container a {
+    text-decoration: underline #ffcc00;
 }
 
 footer {
