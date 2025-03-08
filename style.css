@@ -100,7 +100,7 @@ footer {
     .container { margin: 8% auto; margin-bottom: 10%; }
     footer { margin-top: 8%; }
     nav a { font-size: 1.2em; }
-    p { font-size: 1em; }
+    p { font-size: 1em; margin-top: 5%; }
     .logo { width: 70%; margin: 0.5% auto; }
     li { font-size: 1em; padding: 2%; }
 }
