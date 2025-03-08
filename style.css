@@ -17,7 +17,7 @@ body {
 }
 
 .logo {
-    width: 25%;
+    width: 35%;
     height: auto;
     margin: 1% auto;
     display: block;
@@ -101,6 +101,6 @@ footer {
     footer { margin-top: 8%; }
     nav a { font-size: 1.2em; }
     p { font-size: 1em; margin-top: 5%; }
-    .logo { width: 70%; margin: 0.5% auto; }
+    .logo { width: 90%; margin: 0.5% auto; }
     li { font-size: 1em; padding: 2%; }
 }
